@@ -1,0 +1,51 @@
+**NOTICE** **NOTICE** **NOTICE**
+Requires a ROOTED PHONE
+**NOTICE** **NOTICE** **NOTICE** 
+Use WIFI for optimal speed
+**NOTICE** **NOTICE** **NOTICE** 
+
+TESTED on the Motorola Droid but should Work on any ROOTED Android Phone
+Boot animations created by our very own liquidzgrl who is apart of our team over at Liquid Smooth Roms
+This is a stand alone Boot animations downloader application
+
+There is over 50 boot animations available to download
+
+After downloading, for users that are not already familiar with this you will need to make sure that you rename the boot animation when ready to use to the name bootanimation.zip exactly as I have it spelled there and I do believe that it is case sensitive. 
+
+Also, if you are a newly rooted user or are not sure how to replace this I recommend using root explorer - and then follow these steps:
+
+1.Rename file xyz.zip to bootanimation.zip
+
+2.Copy or Move File
+
+3.Go to System/Media
+Note: (to avoid having to backup the one you are using now you can place in date/local directory instead of system and when you want your old one back all you have to do is delete this one)
+
+4.Select Read/Write setting
+
+5.Paste and click OK to overwrite(possibly copy this to another directory for a backup or simply rename to .bak before overwriting/pasting or you will lose the bootanimation already in your phone)
+
+6.Long press to generate menu and select permissions
+
+7.Select rw-r-r or use all permissions
+
+8.Select Read/Only setting
+
+9.Reboot and Enjoy
+
+Another option is to:
+
+put the bootanimation.zip, using terminal into data/local ...
+typing command:
+
+#su
+#cp /sdcard/bootanimation.zip /data/local/ 
+
+Keep the spaces it won't work without them also do not type the # symbols 
+# = superuser privileges
+$ = no super user privileges
+
+**NOTICE** **NOTICE** **NOTICE** 
+If app is running slow switch to Wifi to speed it up
+do not rate low because it is running slow on your phone as the application is graphic intense and requires high end phones to run smoothly but application is designed to work with most any rooted android phone
+**NOTICE** **NOTICE** **NOTICE**

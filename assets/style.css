@@ -1,0 +1,48 @@
+﻿body {
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+	margin: 0; /* it's good practice to zero the margin and padding of the body element to account for differing browser defaults */
+	padding: 0;
+	text-align: center; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+	color:#FFFF00;
+	background-color:#000000;
+	font-family: Arial, serif;
+	font-size: 10px;
+	background-image: url("images/wallpaper.png");
+	margin-top: 0.01in;
+	margin-bottom: 0.01in;
+	page-break-before: auto;
+	page-break-after: auto
+}
+	
+	SCROLLBAR-FACE-COLOR:#000000;
+	SCROLLBAR-HIGHLIGHT-COLOR: #000000;
+	SCROLLBAR-SHADOW-COLOR: #000000;
+	SCROLLBAR-3DLIGHT-COLOR: #000000;
+	SCROLLBAR-ARROW-COLOR: #000000;
+	SCROLLBAR-TRACK-COLOR: #000000;
+	SCROLLBAR-DARKSHADOW-COLOR: #000000;
+
+    }
+ blockquote {
+	background-image: url("images/b.png");
+	margin: 0; /* it's good practice to zero the margin and padding of the body element to account for differing browser defaults */
+	padding: 0;
+	text-align: center;
+	font-size: 20px;
+}
+	
+    a  { color:#0000FF; }
+    a:visited { color:#0000FF; }
+    a:hover { color:#0000FF; }
+    a:active { color:#0000FF; }
+	a { text-decoration:none }
+	
+
+    P.empty {}
+    P.list-1 { margin-left: 0.15in; text-indent: -0.15in }
+    P.list-2 { margin-left: 0.3in; text-indent: -0.15in }
+    P.list-3 { margin-left: 0.45in; text-indent: -0.15in }
+    P.list-4 { margin-left: 0.6in; text-indent: -0.15in }
+    P.list-5 { margin-left: 0.75in; text-indent: -0.15in }
+    P.list-6 { margin-left: 1.00in; text-indent: -0.15in }
+    PRE { border: 1px solid; background: #98AFC7; padding: 0.5em; margin-top: 0in; margin-bottom: 0in; margin-left: 0.25in}
